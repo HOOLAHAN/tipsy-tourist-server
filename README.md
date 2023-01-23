@@ -17,9 +17,11 @@ const apiKey = "<YOUR-API-KEY>"
 module.exports = apiKey
 ```
 
-# Running locally
+## Running locally
 
 ```
 cd tipsy_tourist_server
 npm start
 ```
+
+In order to run Tipsy Tourist in the browser you will also need to run the front end - [click here](https://github.com/HOOLAHAN/tipsy-tourist) to be directed to this repo
