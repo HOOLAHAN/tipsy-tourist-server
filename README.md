@@ -16,3 +16,10 @@ You will need to request a Google API key [here](https://cloud.google.com/) and 
 const apiKey = "<YOUR-API-KEY>"
 module.exports = apiKey
 ```
+
+# Running locally
+
+```
+cd tipsy_tourist_server
+npm start
+```
